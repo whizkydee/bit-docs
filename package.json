@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@bit/bit.docs.docs": "file:./docs",
+    "@bit/bit.docs.tutorial": "file:./tutorial",
+    "@bit/bit.docs.whybit": "file:./whybit"
+  }
+}

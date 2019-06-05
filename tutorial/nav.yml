@@ -1,0 +1,242 @@
+- title: Sharing React Components Between Projects
+  items:
+    - id: before-we-start
+      title: Before We Start
+      href: /tutorial/react-app-tutorial.html#before-we-start
+      forceInternal: true
+    - id: sharing-components-from-a-project
+      title: Sharing Components from a Project
+      href: tutorial/react-app-tutorial.html#sharing-components-from-a-project
+      forceInternal: true
+      subitems:
+        - id: initializing-a-workspace
+          title: Initializing a Workspace
+          href: /tutorial/react-app-tutorial.html#initializing-a-workspace
+          forceInternal: true
+        - id: add-components
+          title: Add Components
+          href: /tutorial/react-app-tutorial.html#add-components
+          forceInternal: true
+        - id: compiling-components
+          title: Compiling components
+          href: /tutorial/react-app-tutorial.html#compiling-components
+          forceInternal: true
+        - id: tag-component-version
+          title: Tag Component Version
+          href: /tutorial/react-app-tutorial.html#tag-component-version
+          forceInternal: true
+        - id: create-collection
+          title: Create Collection
+          href: /tutorial/react-app-tutorial.html#create-collections
+          forceInternal: true
+        - id: share-components
+          title: Share components
+          href: /tutorial/react-app-tutorial.html#share-components
+          forceInternal: true
+    - id: install-components
+      title: Install components
+      href: /tutorial/react-app-tutorial.html#install-components
+      forceInternal: true
+      subitems:
+        - id: use-in-your-project
+          title: Use in your project
+          href: /tutorial/react-app-tutorial.html#use-in-your-project
+          forceInternal: true
+    - id: modify-components
+      title: Modify Components
+      href: tutorial/react-app-tutorial.html#modify-components
+      forceInternal: true
+      subitems:
+        - id: initialize-bit-in-the-consuming-project
+          title: Initialize Bit in the consuming project
+          href: /tutorial/react-app-tutorial.html#initialize-bit-in-the-consuming-project
+          forceInternal: true
+        - id: import-component
+          title: Import component
+          href: /tutorial/react-app-tutorial.html#import-component
+          forceInternal: true
+        - id: modify-imported-component
+          title: Modify Imported Component
+          href: /tutorial/react-app-tutorial.html#modify-imported-component
+          forceInternal: true
+        - id: tag-a-new-version
+          title: Tag a new version
+          href: /tutorial/react-app-tutorial.html#tag-a-new-version
+          forceInternal: true 
+        - id: export-component
+          title: Export component
+          href: /tutorial/react-app-tutorial.html#export-component
+          forceInternal: true
+    - id: import-updated-component
+      title: Import updated component
+      href: tutorial/react-app-tutorial.html#import-updated-component
+      forceInternal: true
+- title: Split Shared Library of React Components
+  items:
+    - id: what-you-will-learn
+      title: What You Will Learn
+      href: /tutorial/react-tutorial.html#what-you-will-learn
+      forceInternal: true
+    - id: tutorial-setup
+      title: Tutorial Setup
+      href: /tutorial/react-tutorial.html#tutorial-setup
+      forceInternal: true
+    - id: sharing-components-from-a-project
+      title: Sharing Components
+      href: /tutorial/react-tutorial.html#sharing-components-from-a-project
+      forceInternal: true
+      subitems:
+        - id: initializing-a-workspace
+          title: Initializing a Workspace
+          href: /tutorial/react-tutorial.html#initializing-a-workspace
+          forceInternal: true
+        - id: committing-your-work
+          title: Committing your Work
+          href: /tutorial/react-tutorial.html#committing-your-work
+          forceInternal: true
+        - id: tracking-files-as-components
+          title: Tracking Files as Components
+          href: /tutorial/react-tutorial.html#tracking-files-as-components
+          forceInternal: true
+        - id: transpiling-components
+          title: Transpiling Components
+          href: /tutorial/react-tutorial.html#transpiling-components
+          forceInternal: true
+        - id: versioning-components
+          title: Versioning Components
+          href: /tutorial/react-tutorial.html#versioning-components
+          forceInternal: true
+        - id: creating-a-collection-and-sharing-components
+          title: Creating a Collection and Sharing Components
+          href: /tutorial/react-tutorial.html#creating-a-collection-and-sharing-components
+          forceInternal: true
+    - id: component-discovery-and-consumption
+      title: Component Discovery
+      href: /tutorial/react-tutorial.html#component-discovery-and-consumption
+      forceInternal: true
+      subitems:
+        - id: browsing-the-component-collection
+          title: Browsing the Collection
+          href: /tutorial/react-tutorial.html#browsing-the-component-collection
+          forceInternal: true
+        - id: using-the-playground
+          title: Using the Playground
+          href: /tutorial/react-tutorial.html#using-the-playground
+          forceInternal: true
+        - id: installing-components-with-package-managers
+          title: Installing Components with Package Managers
+          href: /tutorial/react-tutorial.html#installing-components-with-package-managers
+          forceInternal: true
+    - id: modifying-and-updating-components
+      title: Modifying Components
+      href: /tutorial/react-tutorial.html#modifying-and-updating-components
+      forceInternal: true
+      subitems:
+        - id: suggesting-modification-for-component
+          title: Suggesting Modifications
+          href: /tutorial/react-tutorial.html#suggesting-modification-for-component
+          forceInternal: true
+        - id: merging-and-publishing-new-versions
+          title: Publishing New Versions
+          href: /tutorial/react-tutorial.html#merging-and-publishing-new-versions
+          forceInternal: true
+        - id: updating-consuming-projects
+          title: Updating Consuming Projects
+          href: /tutorial/react-tutorial.html#updating-consuming-projects
+          forceInternal: true
+    - id: bit-ci-automation
+      title: Bit CI Automation
+      href: /tutorial/react-tutorial.html#bit-ci-automation
+      forceInternal: true
+      subitems:
+        - id: exporting-components-during-build
+          title: Exporting Components During CI
+          href: /tutorial/react-tutorial.html#exporting-components-during-build
+          forceInternal: true
+        - id: install-components-during-ci
+          title: Install Components During CI
+          href: /tutorial/react-tutorial.html#install-components-during-ci
+          forceInternal: true
+- title: Split Shared Library of Node Modules
+  items:
+    - id: what-you-will-learn
+      title: What You Will Learn
+      href: /tutorial/node-tutorial.html#what-you-will-learn
+      forceInternal: true
+    - id: tutorial-setup
+      title: Tutorial Setup
+      href: /tutorial/node-tutorial.html#tutorial-setup
+      forceInternal: true
+    - id: sharing-components-from-a-project
+      title: Sharing Components
+      href: /tutorial/node-tutorial.html#sharing-components-from-a-project
+      forceInternal: true
+      subitems:
+        - id: initializing-a-workspace
+          title: Initializing a Workspace
+          href: /tutorial/node-tutorial.html#initializing-a-workspace
+          forceInternal: true
+        - id: committing-your-work
+          title: Committing your Work
+          href: /tutorial/node-tutorial.html#committing-your-work
+          forceInternal: true
+        - id: tracking-files-as-components
+          title: Tracking Files as Components
+          href: /tutorial/node-tutorial.html#tracking-files-as-components
+          forceInternal: true
+        - id: transpiling-components
+          title: Transpiling Components
+          href: /tutorial/node-tutorial.html#transpiling-components
+          forceInternal: true
+        - id: versioning-components
+          title: Versioning Components
+          href: /tutorial/node-tutorial.html#versioning-components
+          forceInternal: true
+        - id: creating-a-collection-and-sharing-components
+          title: Creating a Collection and Sharing Components
+          href: /tutorial/node-tutorial.html#creating-a-collection-and-sharing-components
+          forceInternal: true
+    - id: component-discovery-and-consumption
+      title: Component Discovery
+      href: /tutorial/node-tutorial.html#component-discovery-and-consumption
+      forceInternal: true
+      subitems:
+        - id: browsing-the-component-collection
+          title: Browsing the Collection
+          href: /tutorial/node-tutorial.html#browsing-the-component-collection
+          forceInternal: true
+        - id: installing-components-with-package-managers
+          title: Installing Components with Package Managers
+          href: /tutorial/node-tutorial.html#installing-components-with-package-managers
+          forceInternal: true
+    - id: modifying-and-updating-components
+      title: Modifying and Updating Components
+      href: /tutorial/node-tutorial.html#modifying-and-updating-components
+      forceInternal: true
+      subitems:
+        - id: suggesting-modification-for-component
+          title: Suggesting Modifications
+          href: /tutorial/node-tutorial.html#suggesting-modification-for-component
+          forceInternal: true
+        - id: merging-and-publishing-new-versions
+          title: Publishing New Versions
+          href: /tutorial/node-tutorial.html#merging-and-publishing-new-versions
+          forceInternal: true
+        - id: updating-consuming-projects
+          title: Updating Consuming Projects
+          href: /tutorial/node-tutorial.html#updating-consuming-projects
+          forceInternal: true
+    - id: bit-ci-automation
+      title: Bit CI Automation
+      href: /tutorial/node-tutorial.html#bit-ci-automation
+      forceInternal: true
+      subitems:
+        - id: exporting-components-during-build
+          title: Exporting Components During Build
+          href: /tutorial/node-tutorial.html#exporting-components-during-build
+          forceInternal: true
+        - id: install-components-during-ci
+          title: Install Components During CI
+          href: /tutorial/node-tutorial.html#install-components-during-ci
+          forceInternal: true
+  
