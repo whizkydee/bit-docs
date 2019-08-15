@@ -114,7 +114,7 @@ Bit prompts the `missing package dependencies` if it is unable to resolve all pa
 
 ## Peer Dependencies
 
-Some peer dependencies are not explicitly required by tracked files, so Bit does not log them as `peerDepedndencies`. To work around this issue we use [overrides](/docs/conf-bit-json.html#overrides) to force them as such.  
+Some peer dependencies are not explicitly required by tracked files, so Bit does not log them as `peerDependencies`. To work around this issue we use [overrides](/docs/conf-bit-json.html#overrides) to force them as such.  
 For this example, we'll assume that a project has react components, so we need to add `react-dom` as a peer dependency. Open the [workspace configuration](/docs/conf-files.html#workspace-configuration) and locate `bit`. Now add the `overrides` section as follows:
 
 ```js
